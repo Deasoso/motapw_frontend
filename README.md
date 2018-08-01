@@ -1,4 +1,4 @@
-# somecoin
+# mota.pw前端
 
 > A Vue.js project
 
